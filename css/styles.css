@@ -1,6 +1,7 @@
 .img-container {
-text-align:center;
+text-align: center;
 }
+
 .details {
   margin: 50px 30px 50px 30px;
 }
@@ -84,14 +85,14 @@ body {
   width: 30%;
   height: 25rem;
   display: inline-block;
-  padding-right:30px;
+  padding-right: 30px;
 }
 
 .third-img {
   width:30%;
   height: 25rem;
   display:inline-block;
-  padding-right:30px;
+  padding-right: 30px;
 }
 
 .four-img {
