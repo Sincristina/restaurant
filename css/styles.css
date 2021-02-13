@@ -1,0 +1,278 @@
+.details {
+  margin: 50px 30px 50px 30px;
+}
+
+.text-second {
+  background-color: #f5f5f57d;
+  width: 550px;
+  height: 300px;
+  position: absolute;
+  top: 1300px;
+  left: 450px;
+  text-align: center;
+}
+
+.linii {
+  width: 200px;
+}
+
+.linii-second {
+  width: 200px;
+  text-align: center;
+  margin: auto 0 auto 0;
+}
+
+.mancare {
+  position: absolute;
+  top: 1780px;
+  left: 600px;
+}
+
+.second-container {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+.paragraph-details {
+  margin-top: 50px;
+  margin-bottom: 5px;
+  color: #f2a154;
+}
+
+h2 {
+  position: absolute;
+  top: 230px;
+  left: 670px;
+  color: white;
+  line-height: 2;
+}
+
+h1 {
+  position: absolute;
+  top: 200px;
+  left: 650px;
+  color: white;
+}
+
+.first-img {
+  display: inline-block;
+  width: 1490px;
+  height: 500px;
+  position: relative;
+}
+
+body {
+  margin: auto;
+
+}
+
+.linie {
+  width: 200px;
+}
+
+.second-img {
+  position: absolute;
+
+  width: 30%;
+  height: 25rem;
+  margin: 50px 0 30px 30px;
+  display: inline-block;
+}
+
+.third-img {
+  position: absolute;
+  left: 505px;
+  top: 42.563rem;
+  width:30%;
+  height: 25rem;
+}
+
+.four-img {
+
+  position: absolute;
+  right:30px;
+  top: 42.563rem;
+  width: 30%;
+  height: 25rem;
+}
+
+.mancare-img {
+  position: absolute;
+  width: 1440px;
+  height: 500px;
+  top: 1200px;
+}
+
+.five-container {
+  position: absolute;
+  top: 1750px;
+  left: 650px;
+}
+
+.meniulnostru-details {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.ciolandeporc {
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+}
+
+.six-container {
+  position: absolute;
+  top: 1900px;
+  left: 100px;
+  width:50%;
+}
+
+.supa-meniu {
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+}
+
+.seven-container {
+  position: absolute;
+  top: 1900px;
+  left: 900px;
+  width:50%;
+}
+
+.coastedeporc-menu {
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+}
+
+.eight-container {
+  position: absolute;
+  top: 2050px;
+  left: 100px;
+  width:50%;
+}
+
+.papanasi-menu {
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+}
+
+.nine-container {
+  position: absolute;
+  top: 2050px;
+  left: 900px;
+  width:50%;
+}
+
+.ten-container {
+  background-color: black;
+  height: 200px;
+  position: relative;
+  top: 1680px;
+}
+
+.text-container-ten {
+  color: white;
+  text-align: center;
+  line-height: 10;
+}
+
+.ciorbadeburta-img {
+  position: absolute;
+  top: 2600px;
+  width: 1440px;
+  height: 500px;
+}
+
+.text-third {
+  background-color: #3333337a;
+  width: 1440px;
+  height: 500px;
+  position: absolute;
+  top: 2600px;
+}
+
+.paragraph-details-bottom {
+  color: #f2a154;
+  position: absolute;
+  top: 50px;
+  left: 720px;
+}
+
+.ultimelearticole-bottom {
+  position: absolute;
+  top: 2680px;
+  left: 700px;
+  line-height: 1;
+}
+
+.image-eleven-container {
+  position: absolute;
+  top: 2700px;
+  left: 200px;
+  margin-top: 100px;
+  margin-left: 10px;
+}
+
+.ciorba-container11 {
+  width: 300px;
+  float: left;
+}
+
+.styling-ciorba {
+  margin-top: 30px;
+}
+
+.twelve-container {
+  display: inline-block;
+  position: absolute;
+  top: 3200px;
+  color: white;
+  background-color: black;
+  width: 720px;
+  height: 300px;
+
+
+}
+
+.thirteen-container {
+  position: absolute;
+  top: 3200px;
+  right: 0;
+  color: white;
+  background-color: #1b2024;
+  width: 720px;
+  height: 300px;
+}
+.footer-link {
+  text-decoration: none;
+  color:white;
+}
+a:hover {
+  color:black;
+}
+
+.contact-information {
+  margin: 100px auto 100px auto;
+  width:70%;
+}
+
+.contact-information-second {
+  margin: 100px auto 100px auto;
+  width:70%;
+}
+
+.the-final {
+  position: absolute;
+  top: 218.75rem;
+  left: 500px;
+}
