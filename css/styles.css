@@ -78,27 +78,19 @@ body {
 }
 
 .second-img {
-  position: absolute;
-
   width: 30%;
   height: 25rem;
-  margin: 50px 0 30px 30px;
   display: inline-block;
 }
 
 .third-img {
-  position: absolute;
-  left: 505px;
-  top: 42.563rem;
   width:30%;
   height: 25rem;
+  display:inline-block;
 }
 
 .four-img {
-
-  position: absolute;
-  right:30px;
-  top: 42.563rem;
+  display:inline-block;
   width: 30%;
   height: 25rem;
 }
